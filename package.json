@@ -1,0 +1,24 @@
+{
+  "name": "unique-id-maker",
+  "version": "1.0.0",
+  "description": "makes a unique identification code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammadmubeen29/unique-id-npm-package.git"
+  },
+  "keywords": [
+    "UID",
+    "ID",
+    "unique"
+  ],
+  "author": "Muhammad Mubeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammadmubeen29/unique-id-npm-package/issues"
+  },
+  "homepage": "https://github.com/Muhammadmubeen29/unique-id-npm-package#readme"
+}
